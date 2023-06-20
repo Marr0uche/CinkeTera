@@ -1,0 +1,12 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"/home/etudiant/lm222582/Téléchargements/iut.jar",
+		"c:\\iut\\TP\\java\\paquetage_class\\iut.jar",
+		"/Users/maximilien/iut/java/paquetage_class/iut.jar"
+	],
+	"java.project.sourcePaths": [
+		".",
+		"src"
+	]
+}

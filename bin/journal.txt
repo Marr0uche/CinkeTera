@@ -1,0 +1,26 @@
+Journal
+
+ -> Le joueur a pioché une carte secondaire Vert
+ -> Le joueur a pioché une carte secondaire Multicolore
+ -> Le joueur a pioché une carte secondaire Rouge
+ -> Le joueur a pioché une carte primaire Brun
+ -> Le joueur a pioché une carte secondaire Brun
+ -> Le joueur a pioché une carte secondaire Jaune
+ -> Le joueur a pioché une carte primaire Vert
+La biffurcation est arrivée pour le joueur 1 
+ -> Le joueur a pioché une carte primaire Rouge
+ -> Le joueur a pioché une carte primaire Multicolore
+ -> Le joueur a pioché une carte primaire Jaune
+ -> Le joueur a pioché une carte primaire Vert
+ -> Vous avez passé votre tour
+ -> Le joueur a pioché une carte primaire Jaune
+ -> Le joueur a pioché une carte secondaire Rouge
+ -> Le joueur a pioché une carte primaire Brun
+ -> Le joueur a pioché une carte secondaire Brun
+ -> Le joueur a pioché une carte primaire Multicolore
+La biffurcation est arrivée pour le joueur 1 
+ -> Le joueur a pioché une carte primaire Rouge
+Durée totale du jeu : 0 minutes et 0 secondes 
+Points total : 0
+
+Date : java.util.GregorianCalendar[time=?,areFieldsSet=false,areAllFieldsSet=true,lenient=true,zone=sun.util.calendar.ZoneInfo[id="Europe/Paris",offset=3600000,dstSavings=3600000,useDaylight=true,transitions=184,lastRule=java.util.SimpleTimeZone[id=Europe/Paris,offset=3600000,dstSavings=3600000,useDaylight=true,startYear=0,startMode=2,startMonth=2,startDay=-1,startDayOfWeek=1,startTime=3600000,startTimeMode=2,endMode=2,endMonth=9,endDay=-1,endDayOfWeek=1,endTime=3600000,endTimeMode=2]],firstDayOfWeek=2,minimalDaysInFirstWeek=4,ERA=1,YEAR=2023,MONTH=5,WEEK_OF_YEAR=24,WEEK_OF_MONTH=3,DAY_OF_MONTH=16,DAY_OF_YEAR=167,DAY_OF_WEEK=6,DAY_OF_WEEK_IN_MONTH=3,AM_PM=1,HOUR=3,HOUR_OF_DAY=0,MINUTE=30,SECOND=33,MILLISECOND=669,ZONE_OFFSET=3600000,DST_OFFSET=3600000]
